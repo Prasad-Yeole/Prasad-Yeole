@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasad Yeole, Welcome to my GitHub page.</h1>
-<h3 align="center">Coding for Impact | Creating Solutions with C/C++, Java, SQL, Python"</h3>
+<h3>Coding for Impact | Creating Solutions with C/C++, Java, SQL, Python"</h3>
 
 - 🔭 I’m currently working on **Java Project Using Spring Boot Tool**
 
