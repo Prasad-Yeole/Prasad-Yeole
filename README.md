@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prasad Yeole, Welcome to my GitHub page.</h1>
 <h3 align="center">Coding for Impact | Creating Solutions with C/C++, Java, SQL, Python"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasad-yeole&label=Profile%20views&color=0e75b6&style=flat" alt="prasad-yeole" /> </p>
-
 - 🔭 I’m currently working on **Java Project Using Spring Boot Tool**
 
 - 🌱 I’m currently learning **Spring Boot Tool**
